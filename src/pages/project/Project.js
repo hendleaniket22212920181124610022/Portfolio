@@ -35,10 +35,7 @@ const Project = () => {
             <div className="description">
               <h4>description:</h4>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Veniam, laboriosam soluta. Dolore, hic. Maxime non rem
-                doloremque modi exercitationem, ipsum libero atque asperiores
-                deserunt quod sed id qui dolores obcaecati.
+                It's a web application to use client side application.This will be used daily use applications.
               </p>
             </div>
           </div>
